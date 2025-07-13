@@ -1,0 +1,15 @@
+portfolio/
+├── index.html
+├── style.css
+├── script.js
+└── projects/
+    ├── amazon-clone/
+    │   └── index.html
+    ├── to-do-list/
+    │   └── index.html
+    ├── flappybird/
+    │   └── index.html
+    ├── tictactoe/
+    │   └── index.html  ✅ this must be here
+
+
